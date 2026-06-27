@@ -1,0 +1,7 @@
+/build/
+/.cmake/
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+my_grep
