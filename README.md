@@ -1,5 +1,5 @@
 # Custom grep
-A high-performance, custom command-line regular expression engine built from scratch in modern C++17. This project mimics core functionalities of the standard UNIX `grep` utility, utilizing a custom tokenization and recursive backtracking match engine to parse complex patterns including character classes, wildcards, quantifiers, and alternations.
+A high-performance, custom command-line regular expression engine built from scratch in modern C++23. This project mimics core functionalities of the standard UNIX `grep` utility, utilizing a custom tokenization and recursive backtracking match engine to parse complex patterns including character classes, wildcards, quantifiers, and alternations.
 
 ## Features
 
